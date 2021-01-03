@@ -1,5 +1,5 @@
 # CMS team tracker
-   
+   ![GitHub license](https://img.shields.io/npm/l/node?style=plastic)
   ## Description
 
   This project is an example of the use of SQL and NodeJS to produce a fully functioning employee tracking program. 
